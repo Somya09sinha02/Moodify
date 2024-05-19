@@ -51,20 +51,5 @@ To deploy this project change Client ID and Secret ID and run
 ```
 
 
-## Documentation
-
-[Documentation](https://github.com/orzanai/Moodify/blob/main/Moodify.pdf)
 
 
-## Team Members
-
-- [@A1iakbar](https://github.com/A1iakbar)
-- [@gundaesra]((https://github.com/gundaesra))
-- [@YigitDncr](https://github.com/YigitDncr)
-
-
-
-
-
-## Acknowledgements
-This project completed as a part of Miuul Data Science & Machine Learning Bootcamp.
